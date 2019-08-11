@@ -1,0 +1,16 @@
+,day,date,desc,temp,precip,wind,humidity
+0,Tonight,11 AUG,T-Storms Early,--28°,80%,W 16 km/h ,72%
+1,Mon,12 AUG,Mostly Cloudy,35°28°,20%,WNW 17 km/h ,58%
+2,Tue,13 AUG,Isolated T-Storms,35°28°,30%,W 16 km/h ,61%
+3,Wed,14 AUG,PM T-Storms,35°28°,40%,W 16 km/h ,62%
+4,Thu,15 AUG,Partly Cloudy,34°28°,20%,WNW 16 km/h ,62%
+5,Fri,16 AUG,Partly Cloudy,34°27°,20%,NW 16 km/h ,64%
+6,Sat,17 AUG,Cloudy,34°27°,20%,W 16 km/h ,68%
+7,Sun,18 AUG,PM T-Storms,33°27°,40%,WNW 14 km/h ,70%
+8,Mon,19 AUG,Scattered T-Storms,33°27°,40%,W 13 km/h ,73%
+9,Tue,20 AUG,PM T-Storms,34°27°,40%,W 14 km/h ,70%
+10,Wed,21 AUG,Mostly Cloudy,34°27°,20%,W 13 km/h ,67%
+11,Thu,22 AUG,Isolated T-Storms,34°27°,30%,W 14 km/h ,67%
+12,Fri,23 AUG,Isolated T-Storms,34°27°,30%,W 14 km/h ,68%
+13,Sat,24 AUG,PM T-Storms,34°27°,40%,W 15 km/h ,67%
+14,Sun,25 AUG,Mostly Cloudy,34°27°,20%,W 14 km/h ,66%
